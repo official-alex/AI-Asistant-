@@ -1,0 +1,5 @@
+SpeechRecognition
+rich
+pydub
+requests
+python-dotenv
