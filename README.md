@@ -15,8 +15,8 @@ This repository contains a real-time speech recognition system powered by [Groq]
 
 1. **📥 Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/repo-name.git
-   cd repo-name
+   https://github.com/official-alex/AI-Assistant.git
+   cd AI-Assistant
    ```
 
 2. **📦 Install Dependencies:**
@@ -26,7 +26,7 @@ This repository contains a real-time speech recognition system powered by [Groq]
    ```
 
 3. **🔑 Set Up Environment Variables:**
-   Create a `.env` file in the project root and add the following:
+   Edit a `.env` file in the project root and add the following:
    ```plaintext
    GROQ_API_KEY=your_groq_api_key_here
    ELEVENLABS_API_KEY=your_elevenlabs_api_key_here
