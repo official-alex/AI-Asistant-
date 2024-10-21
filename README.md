@@ -26,7 +26,7 @@ This repository contains a real-time speech recognition system powered by [Groq]
    ```
 
 3. **🔑 Set Up Environment Variables:**
-   Edit a `.env` file in the project root and add the following:
+   Edit the `.env` file in the project root and add the following:
    ```plaintext
    GROQ_API_KEY=your_groq_api_key_here
    ELEVENLABS_API_KEY=your_elevenlabs_api_key_here
